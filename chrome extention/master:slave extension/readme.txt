@@ -1,1 +1,1 @@
-google chrome extension made to work with aws server api
+google chrome extension made to work with master/slave api
